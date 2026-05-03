@@ -1,7 +1,8 @@
 <div align="center">
 
 # Varakron Vimolgarnjana
-### AI Engineer · Computer Vision · Full-Stack · KMUTT CPE '29
+### Exploring technology 🛠️ 
+#### CPE Student @ KMUTT · I just love building things that push boundaries 🛠️
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Computer+Vision;NLP+%7C+LLM+%7C+Full-Stack+Dev;Super+AI+Engineer+Season+5;Building+real-world+AI+solutions+🚀)](https://git.io/typing-svg)
 
