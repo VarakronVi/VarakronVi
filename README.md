@@ -18,7 +18,7 @@
 
 I'm a **Computer Engineering student at KMUTT** with a passion for building real-world AI systems. From computer vision pipelines at an internship to NLP research at a university lab — I like working at the intersection of AI and impact.
 
-- 🏫 **KMUTT** — Computer Engineering (International Program), Class of 2029
+- 🏫 **KMUTT** — Computer Engineering (International Program), Year 1
 - 🤖 **Super AI Engineer Season 5** — Top placements across multiple AI challenges
 - 🔬 **Research Assistant** @ NLP Lab, KMUTT — Thai Humor Generation with LLMs (targeting ACL)
 - 🚀 **Co-Founder & CTO** @ AntiScam+ — AI-powered cybersecurity startup (1st Runner-Up, Samsung x KBTG Hackathon)
