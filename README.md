@@ -21,7 +21,7 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 - 🏫 **KMUTT** — Computer Engineering (International Program), Year 1
 - 🤖 **Super AI Engineer Season 5** — Top placements across multiple AI challenges
 - 🔬 **Research Assistant** @ NLP Lab, KMUTT — Thai Humor Generation with LLMs (targeting ACL)
-- 🚀 **Co-Founder & CTO** @ AntiScam+ — AI-powered cybersecurity startup (1st Runner-Up, Samsung x KBTG Hackathon)
+- 🚀 **Co-Founder** @ AntiScam+ — AI-powered cybersecurity startup (1st Runner-Up, Samsung x KBTG Hackathon)
 - 🏭 **AI Engineer Intern** @ Connected Tech — Built IndusGuard, a real-time factory speed monitoring system
 
 ---
