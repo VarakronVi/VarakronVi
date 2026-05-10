@@ -33,7 +33,6 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 🥈 2nd Place  — Cognitive Profiling Prediction (Action Recognition) · Super AI SS5
 🥉 3rd Place  — Dominant Wave Height Estimation (AIAT) · Super AI SS5
 🏆 Exhibition — IndusGuard Project @ Central Rama 9 · Super AI SS5
-🥈 1st Runner-Up — Samsung x KBTG Cybersecurity Hackathon (AntiScam+)
 🏆 Top 15     — True CyberSafe x TrueMoney Hackathon (89 teams nationwide)
 🥈 1st Runner-Up — Future of Technology Award RSU 2023 (DB Helper)
 📱 Selected   — iOS Swift Development Camp (20/700+ applicants)
