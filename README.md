@@ -18,29 +18,40 @@
 I'm a **Computer Engineering student at KMUTT** with a passion for building real-world AI systems. From computer vision pipelines at an internship to NLP research at a university lab — I like working at the intersection of AI and impact.
 
 - 🏫 **KMUTT** — Computer Engineering (International Program), Year 1
-- 🤖 **Super AI Engineer Season 5** — Top placements across multiple AI challenges
-- 🔬 **Research Assistant** @ NLP Lab, KMUTT — Thai Humor Generation with LLMs (targeting ACL)
-- 🚀 **Co-Founder & CTO** @ AntiScam+ — AI-powered cybersecurity startup (1st Runner-Up, Samsung x KBTG Hackathon)
 - 🏭 **AI Engineer Intern** @ Connected Tech — Built IndusGuard, a real-time factory speed monitoring system
-
+- 🚀 **Co-Founder ** @ AntiScam+ — AI-powered cybersecurity startup (1st Runner-Up, Samsung x KBTG Hackathon)
+- - 🎨 **UI/UX Designer (Part-time)** @ BKK Gold Co., Ltd. — Designing a Gold Trading & Savings Application
+- 🤖 **Super AI Engineer Season 5** — Kiddee House
+- 🔬 **Research Assistant** @ NLP Lab, KMUTT — Thai Humor Generation with LLMs (targeting ACL)(Department of Computer Engineering)
+- 🗺️ **Smart Lab** @ KMUTT - Department of Mechanical Engineering — Developing TINN, a comprehensive AI travel platform for Thailand, and
+     others coming soon
 ---
 
 ## 🏆 Awards & Highlights
 
+**🏅 Competition Wins**
 ```
 🥇 1st Place     — Sales Forecasting & Product Assortment (CP Axtra) · Super AI SS5
 🥈 2nd Place     — Cognitive Profiling Prediction (Action Recognition) · Super AI SS5
 🥉 3rd Place     — Dominant Wave Height Estimation (AIAT) · Super AI SS5
 4️⃣  4th Place    — Liver Fibrosis Prediction & Bias Correction · Super AI SS5
 4️⃣  4th Place    — Bias Correction for GSMaP Rainfall Data (HII) · Super AI SS5
-🏆 Exhibition    — IndusGuard Project @ Central Rama 9 · Super AI SS5
-🥈 1st Runner-Up — Samsung x KBTG Cybersecurity Hackathon (AntiScam+)
-🏆 Top 15        — True CyberSafe x TrueMoney Hackathon (89 teams nationwide)
 🥈 1st Runner-Up — Future of Technology Award RSU 2023 (DB Helper · 5,000 THB)
-🎖️ Semi-Finalist — National Software Contest NSC 2024 · 14,000 THB research grant
-🏛️ Exhibition    — National Science & Technology Fair 2023 · IMPACT Muang Thong Thani
+```
+
+**🎖️ Finalist & Recognition**
+```
+🏆 Top 15        — True CyberSafe x TrueMoney Hackathon (89 teams nationwide)
+🎖️ Semi-Finalist — National Software Contest NSC 2024 (PhishFindr · 10,000 THB grant)
+🎖️ Semi-Finalist — Samsung Solve for Tomorrow 2024 (PhishFindr · 4,000 THB grant)
 📱 Selected      — iOS Swift Development Camp (20 / 700+ applicants)
 ⛓️ Builder       — CUBS Blockathon 2024 (MedLink — blockchain healthcare)
+```
+
+**🏛️ Exhibition & Events**
+```
+🏆 Exhibition    — IndusGuard Project @ Central Rama 9 · Super AI SS5
+🏛️ Exhibition    — National Science & Technology Fair 2023 · IMPACT Muang Thong Thani
 🌍 Organizer     — World Humanitarian Day 2024 · CYC Chatuchak & SafeguardKids
 ```
 
@@ -57,6 +68,7 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper%20ASR-412991?style=flat-square&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Web & Backend**
 
@@ -70,8 +82,6 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
@@ -103,7 +113,7 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 
 <div align="center">
 
-*"Building AI that solves real problems — not just demos."*
+*"Building AI that solves real problems."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VarakronVi&color=00C896&style=flat-square)
 
