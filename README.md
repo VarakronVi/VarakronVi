@@ -1,7 +1,8 @@
 <div align="center">
 
 # Varakron Vimolgarnjana
-### Exploring technology · I just love building things 🛠️
+### Exploring technology 🛠️ 
+#### CPE Student @ KMUTT · I just love building things that push boundaries 🛠️
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Computer+Vision;NLP+%7C+LLM+%7C+Full-Stack+Dev;Super+AI+Engineer+Season+5;Building+real-world+AI+solutions+🚀)](https://git.io/typing-svg)
 
@@ -46,6 +47,8 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 🎖️ Semi-Finalist — Samsung Solve for Tomorrow 2024 (PhishFindr · 4,000 THB grant)
 📱 Selected      — iOS Swift Development Camp (20 / 700+ applicants)
 ⛓️ Builder       — CUBS Blockathon 2024 (MedLink — blockchain healthcare)
+⛓️ Competitor    — ExxonMobil Demand Forecasting & Logistics Competition 2025 Engineered demand forecasting models + multimodal
+                   logistics strategies (Land & Sea)
 ```
 
 **🏛️ Exhibition & Events**
