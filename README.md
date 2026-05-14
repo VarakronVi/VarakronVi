@@ -1,8 +1,7 @@
 <div align="center">
 
 # Varakron Vimolgarnjana
-### Exploring technology 🛠️ 
-#### CPE Student @ KMUTT · I just love building things that push boundaries 🛠️
+### Exploring technology · I just love building things 🛠️
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Computer+Vision;NLP+%7C+LLM+%7C+Full-Stack+Dev;Super+AI+Engineer+Season+5;Building+real-world+AI+solutions+🚀)](https://git.io/typing-svg)
 
@@ -21,7 +20,7 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 - 🏫 **KMUTT** — Computer Engineering (International Program), Year 1
 - 🤖 **Super AI Engineer Season 5** — Top placements across multiple AI challenges
 - 🔬 **Research Assistant** @ NLP Lab, KMUTT — Thai Humor Generation with LLMs (targeting ACL)
-- 🚀 **Co-Founder** @ AntiScam+ — AI-powered cybersecurity startup (1st Runner-Up, Samsung x KBTG Hackathon)
+- 🚀 **Co-Founder & CTO** @ AntiScam+ — AI-powered cybersecurity startup (1st Runner-Up, Samsung x KBTG Hackathon)
 - 🏭 **AI Engineer Intern** @ Connected Tech — Built IndusGuard, a real-time factory speed monitoring system
 
 ---
@@ -29,13 +28,20 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 ## 🏆 Awards & Highlights
 
 ```
-🥇 1st Place  — Sales Forecasting & Product Assortment (CP Axtra) · Super AI SS5
-🥈 2nd Place  — Cognitive Profiling Prediction (Action Recognition) · Super AI SS5
-🥉 3rd Place  — Dominant Wave Height Estimation (AIAT) · Super AI SS5
-🏆 Exhibition — IndusGuard Project @ Central Rama 9 · Super AI SS5
-🏆 Top 15     — True CyberSafe x TrueMoney Hackathon (89 teams nationwide)
-🥈 1st Runner-Up — Future of Technology Award RSU 2023 (DB Helper)
-📱 Selected   — iOS Swift Development Camp (20/700+ applicants)
+🥇 1st Place     — Sales Forecasting & Product Assortment (CP Axtra) · Super AI SS5
+🥈 2nd Place     — Cognitive Profiling Prediction (Action Recognition) · Super AI SS5
+🥉 3rd Place     — Dominant Wave Height Estimation (AIAT) · Super AI SS5
+4️⃣  4th Place    — Liver Fibrosis Prediction & Bias Correction · Super AI SS5
+4️⃣  4th Place    — Bias Correction for GSMaP Rainfall Data (HII) · Super AI SS5
+🏆 Exhibition    — IndusGuard Project @ Central Rama 9 · Super AI SS5
+🥈 1st Runner-Up — Samsung x KBTG Cybersecurity Hackathon (AntiScam+)
+🏆 Top 15        — True CyberSafe x TrueMoney Hackathon (89 teams nationwide)
+🥈 1st Runner-Up — Future of Technology Award RSU 2023 (DB Helper · 5,000 THB)
+🎖️ Semi-Finalist — National Software Contest NSC 2024 · 14,000 THB research grant
+🏛️ Exhibition    — National Science & Technology Fair 2023 · IMPACT Muang Thong Thani
+📱 Selected      — iOS Swift Development Camp (20 / 700+ applicants)
+⛓️ Builder       — CUBS Blockathon 2024 (MedLink — blockchain healthcare)
+🌍 Organizer     — World Humanitarian Day 2024 · CYC Chatuchak & SafeguardKids
 ```
 
 ---
@@ -65,6 +71,8 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
