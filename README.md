@@ -20,11 +20,11 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 - 🏫 **KMUTT** — Computer Engineering (International Program), Year 1
 - 🏭 **AI Engineer Intern** @ Connected Tech — Built IndusGuard, a real-time factory speed monitoring system
 - 🚀 **Co-Founder ** @ AntiScam+ — AI-powered cybersecurity startup (1st Runner-Up, Samsung x KBTG Hackathon)
-- - 🎨 **UI/UX Designer (Part-time)** @ BKK Gold Co., Ltd. — Designing a Gold Trading & Savings Application
+- 🎨 **UI/UX Designer (Part-time)** @ BKK Gold Co., Ltd. — Designing a Gold Trading & Savings Application
 - 🤖 **Super AI Engineer Season 5** — Kiddee House
 - 🔬 **Research Assistant** @ NLP Lab, KMUTT — Thai Humor Generation with LLMs (targeting ACL)(Department of Computer Engineering)
 - 🗺️ **Smart Lab** @ KMUTT - Department of Mechanical Engineering — Developing TINN, a comprehensive AI travel platform for Thailand, and
-     others coming soon
+     Others coming soon
 ---
 
 ## 🏆 Awards & Highlights
