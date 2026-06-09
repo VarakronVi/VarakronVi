@@ -38,6 +38,7 @@ I'm a **Computer Engineering student at KMUTT** with a passion for building real
 4️⃣  4th Place    — Liver Fibrosis Prediction & Bias Correction · Super AI SS5
 4️⃣  4th Place    — Bias Correction for GSMaP Rainfall Data (HII) · Super AI SS5
 🥈 1st Runner-Up — Future of Technology Award RSU 2023 (DB Helper · 5,000 THB)
+🥈 Silver Medal  — ITEX 2026 · International Invention, Innovation & Technology Exhibition, Malaysia (KRAIKUB)
 ```
 
 **🎖️ Finalist & Recognition**
